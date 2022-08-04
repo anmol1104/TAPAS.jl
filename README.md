@@ -2,8 +2,8 @@
 Traffic Assignment by Paired Alternate Segments.
 
 For further details refer to:
-  Bar-Gera, H. (2010). Traffic assignment by paired alternative segments. Transportation Research Part B: Methodological, 44(8-9), 1022-1046.
-  Xie, J., & Xie, C. (2016). New insights and improvements of using paired alternative segments for traffic assignment. Transportation Research Part B:     Methodological, 93, 406-424.
+- Bar-Gera, H. (2010). Traffic assignment by paired alternative segments. Transportation Research Part B: Methodological, 44(8-9), 1022-1046.
+- Xie, J., & Xie, C. (2016). New insights and improvements of using paired alternative segments for traffic assignment. Transportation Research Part B:     Methodological, 93, 406-424.
 
 Implementation here as proposed by Xie & Xie (2016)
 
