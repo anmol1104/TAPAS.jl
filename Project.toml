@@ -1,0 +1,13 @@
+name = "TAPAS"
+uuid = "740f313c-e57c-4e6c-8450-c5bf4b3bcc3b"
+authors = ["Anmol Pahwa"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
